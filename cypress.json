@@ -1,0 +1,6 @@
+{
+    "scripts": {
+    "start": "webpack-dev-server --inline --mode development --open",
+    "cy:open": "yarn start & cypress open"
+    }
+}
