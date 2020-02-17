@@ -24,6 +24,7 @@
     "webpack-dev-server": "3.1.11"
   },
   "scripts": {
-    "start": "webpack-dev-server --inline --mode development --open"
-  }
+    "start": "webpack-dev-server --inline --mode development --open",
+    "cy:open": "yarn start & cypress open"
+}
 }
