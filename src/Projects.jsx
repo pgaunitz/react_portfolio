@@ -1,11 +1,12 @@
-import React from "react";
+import React, { Component } from "react";
 import axios from "axios";
 
 class Projects extends Component {
   state = {
     projects: []
+    
+  };
 
-    };
   componentDidMount() {
     axios.get('./src/data/projects.json')
       .then(response => {
@@ -37,6 +38,5 @@ class Projects extends Component {
     );
   }
 }
-
 
 export default Projects;
