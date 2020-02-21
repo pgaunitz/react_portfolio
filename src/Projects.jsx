@@ -35,7 +35,7 @@ class Projects extends Component {
 
     return (
       <div className="ui main container">
-        <div className="ui stackable two column grid">
+        {/* <div className="ui stackable two column grid">
           <div className="column">
             <UndrawDashboard primaryColor='#12283a' height='200px' />
           </div>
@@ -47,7 +47,7 @@ class Projects extends Component {
               iusto sequi modi totam qui veniam? Ab asperiores inventore distinctio.
             </p>
           </div>
-        </div>
+        </div> */}
         <div className="ui stackable four column grid">{projectsList}</div>
       </div>
     );

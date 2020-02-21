@@ -1,23 +1,51 @@
 [
   {
     "id": 1,
-    "name": "My First Website",
-    "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
-    "description": "This was my first project. The guy lost, but won the popular vote!",
-    "image_front": "src/images/GitLogo.png"
+    "name": "Portfolio site",
+    "image": "src/images/react-1.svg",
+    "description": "Bulit in React",
+    "link": "https://github.com/pgaunitz/react_portfolio",
+    "gitlogo": "src/images/GitHub-Mark-32px.png"
   },
   {
     "id": 2,
-    "name": "UI Design",
-    "image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-    "description": "Designing user interfaces is fun. I want to learn more about that...",
-    "image_front": "src/images/GitLogo.png"
+    "name": "ATM challange ",
+    "image": "src/images/ruby.svg",
+    "description": "Virtual ATM built in Ruby",
+    "link": "https://github.com/pgaunitz/atm_challenge_2019",
+    "gitlogo": "src/images/GitHub-Mark-32px.png"
   },
   {
     "id": 3,
-    "name": "Mobile UX",
-    "image": "https://images.unsplash.com/photo-1534237886190-ced735ca4b73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-    "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding.",
-    "image_front": "src/images/GitLogo.png"
+    "name": "Address book",
+    "image": "src/images/javascript.svg",
+    "description": "Simple address book built in Javascript.",
+    "link": "https://github.com/pgaunitz/address_book_challenge",
+    "gitlogo": "src/images/GitHub-Mark-32px.png"
+  },
+  {
+    "id": 3,
+    "name": "Legacy challange",
+    "image": "src/images/javascript.svg",
+    "description": "Testing Rails message application.",
+    "link": "https://github.com/pgaunitz/address_book_challenge",
+    "gitlogo": "src/images/GitHub-Mark-32px.png"
+  },
+  
+  {
+    "id": 5,
+    "name": "FizzBuzz",
+    "image": "src/images/java.svg",
+    "description": "FizzBuzz built in Java",
+    "link": "https://github.com/pgaunitz/fizzbuzz_Java",
+    "gitlogo": "src/images/GitHub-Mark-32px.png"
+  },
+  {
+    "id": 6,
+    "name": "Future projects",
+    "image": "src/images/Source-code-icon.svg",
+    "description": "New challanging projects",
+    "link": "https://github.com/pgaunitz/",
+    "gitlogo": "src/images/GitHub-Mark-32px.png"
   }
   ]
