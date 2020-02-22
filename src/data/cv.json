@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Education",
+        "image": "src/images/react-1.svg",
+        "description": "Degree"
+      },
+      {
+        "id": 2,
+        "name": "Work experience",
+        "image": "src/images/ruby.svg",
+        "description": "Job"
+      },
+      {
+        "id": 3,
+        "name": "Other",
+        "image": "src/images/javascript.svg",
+        "description": "Other"
+        
+      }
+
+
+]
