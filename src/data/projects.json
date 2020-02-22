@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Portfolio site",
+    "name": "My Portfolio Website",
     "image": "src/images/react-1.svg",
-    "description": "Bulit in React",
+    "description": "Built in React",
     "link": "https://github.com/pgaunitz/react_portfolio",
     "gitlogo": "src/images/GitHub-Mark-32px.png"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "ATM challange ",
     "image": "src/images/ruby.svg",
-    "description": "Virtual ATM built in Ruby",
+    "description": "Virtual ATM built in Ruby.",
     "link": "https://github.com/pgaunitz/atm_challenge_2019",
     "gitlogo": "src/images/GitHub-Mark-32px.png"
   },

@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div className="ui main container">
       <div className="hero-text">
-        <h1>Contact me</h1>
+        <h1 id="contact-header">Contact me</h1>
         
         <div className="item">
           

@@ -4,7 +4,7 @@ const Hello = () => {
   return (
     <div className="ui main container">
       <div className="hero-text">
-        <h1>Philip Gaunitz</h1>
+        <h1 id="name">Philip Gaunitz</h1>
         <h4>Junior fullstack web developer| Tech enthusiast </h4>
         <div className="item">
           <a
