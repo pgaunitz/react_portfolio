@@ -16,7 +16,7 @@ const App = () => {
   return (
     <>
       <Particles
-        style={{ zIndex: -1, position: "absolute", background: 'url("./src/images/norrsken.jpg")', BackgroundSize: 'cover', backgroundPosition: '50% 50%'}}
+        style={{ zIndex: -1, position: "fixed", background: 'url("./src/images/norrsken.jpg")', BackgroundSize: 'cover', backgroundPosition: '50% 50%'}}
         params={particlesOptions}
       />
       <div>
