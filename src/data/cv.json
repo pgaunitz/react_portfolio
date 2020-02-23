@@ -1,23 +1,36 @@
 [
-    {
-        "id": 1,
-        "name": "Education",
-        "image": "src/images/react-1.svg",
-        "description": "Degree"
-      },
-      {
-        "id": 2,
-        "name": "Work experience",
-        "image": "src/images/ruby.svg",
-        "description": "Job"
-      },
-      {
-        "id": 3,
-        "name": "Other",
-        "image": "src/images/javascript.svg",
-        "description": "Other"
-        
-      }
+  {
+    "id": 1,
+    "name": "Work experience",
+    "image": "src/images/team.svg",
 
+    "place": "Campany",
+    "date": "Year",
+    "description": "Description",
 
+    "place2": "Campany",
+    "date2": "Year",
+    "description2": "Description",
+
+    "place3": "Campany",
+    "date3": "Year",
+    "description3": "Description"
+  },
+  {
+    "id": 2,
+    "name": "Education",
+    "image": "src/images/student.svg",
+
+    "place": "School",
+    "date": "Year",
+    "description": "Description",
+
+    "place2": "School",
+    "date2": "Year",
+    "description2": "Description",
+
+    "place3": "School",
+    "date3": "Year",
+    "description3": "Description"
+  }
 ]
