@@ -4,9 +4,9 @@
     "name": "Work experience",
     "image": "src/images/team.svg",
 
-    "place": "Campany",
-    "date": "Year",
-    "description": "Description",
+    "place": "Danderyds Kommun",
+    "date": "2004 - 2020 ",
+    "description": "Worked as youth recreation leader. Responsible of..................................",
 
     "place2": "Campany",
     "date2": "Year",
@@ -21,9 +21,9 @@
     "name": "Education",
     "image": "src/images/student.svg",
 
-    "place": "School",
-    "date": "Year",
-    "description": "Description",
+    "place": "Craft Academy",
+    "date": "2020",
+    "description": "Fullstack web developer bootcamp",
 
     "place2": "School",
     "date2": "Year",
