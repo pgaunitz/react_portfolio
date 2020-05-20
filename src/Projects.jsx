@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import axios from "axios";
 import ProjectCard from "./ProjectCard";
-import { UndrawDashboard } from "react-undraw-illustrations";
 
 class Projects extends Component {
   state = {

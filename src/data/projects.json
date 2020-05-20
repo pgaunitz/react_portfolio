@@ -24,7 +24,7 @@
     "gitlogo": "src/images/GitHub-Mark-32px.png"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Legacy challange",
     "image": "src/images/javascript.svg",
     "description": "Testing Rails message application.",

@@ -1,5 +1,4 @@
 import React from "react";
-import { UndrawDesignerLife } from "react-undraw-illustrations";
 import UndrawPhoto from "react-undraw-illustrations/lib/components/UndrawPhoto/UndrawPhoto";
 
 const About = () => {
