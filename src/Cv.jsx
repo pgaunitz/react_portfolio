@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import axios from "axios";
 import CvCard from "./CvCard";
-import { UndrawDashboard } from "react-undraw-illustrations";
 
 class Cv extends Component {
   state = {

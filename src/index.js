@@ -8,6 +8,7 @@ import Projects from "./Projects";
 import About from "./About";
 import Contact from "./Contact";
 import Cv from "./Cv"
+// import "semantic-ui-css/semantic.min.css";
 
 import Particles from "react-particles-js";
 import { particlesOptions } from "./data/particles";

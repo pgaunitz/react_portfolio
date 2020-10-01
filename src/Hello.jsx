@@ -1,4 +1,5 @@
 import React from "react";
+import { Menu, Segment, Image, Grid } from 'semantic-ui-react'
 
 const Hello = () => {
   return (
