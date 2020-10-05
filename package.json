@@ -32,7 +32,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "scripts": {
-    "start": "webpack-dev-server --inline --mode development --open",
+    "start": "npx webpack-dev-server --mode development",
     "cy:open": "npm start & cypress open",
     "cypress:ci": "cypress run --config video=false",
     "cy:run": "cypress run",
