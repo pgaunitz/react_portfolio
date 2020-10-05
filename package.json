@@ -37,6 +37,6 @@
     "cypress:ci": "cypress run --config video=false",
     "cy:run": "cypress run",
     "cy:verify": "cypress verify",
-    "test:ci": "start-server-and-test start http-get://localhost:3000 cypress:ci"
+    "test": "start-server-and-test start http-get://localhost:3000 cypress:ci"
   }
 }
